@@ -55,7 +55,7 @@ Automated Telegram bot that monitors eBay Kleinanzeigen listings and sends insta
 
 ### For Users
 
-1. Open [@kleinanzeigenalerts_bot](http://t.me/kleinanzeigenalerts_bot)
+1. Open [http://t.me/kleinanzeigenalerts_bot](http://t.me/kleinanzeigenalerts_bot)
 2. Choose your language
 3. Go to eBay Kleinanzeigen, set filters, copy URL
 4. Send URL to bot
